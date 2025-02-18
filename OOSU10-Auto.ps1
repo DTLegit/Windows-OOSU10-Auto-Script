@@ -47,7 +47,7 @@ $ProgressPreference = "SilentlyContinue"
 # Define URLs for downloads.
 $exeURL    = "https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe"
 # Replace the URL below with the actual location of your recommended config file if needed.
-$configURL = "https://raw.githubusercontent.com/DTLegit/Windows-Scripts/refs/heads/main/OOSU10.cfg"
+$configURL = "https://raw.githubusercontent.com/DTLegit/Windows-OOSU10-Auto-Script/refs/heads/main/OOSU10.cfg"
 
 # Create a unique temporary folder.
 $tempDir = Join-Path $env:TEMP ("OOSU10_temp_" + [guid]::NewGuid().ToString())
