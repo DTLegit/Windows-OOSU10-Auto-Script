@@ -28,7 +28,7 @@
       - revert      : Revert settings by inverting the recommended config.
 
 .EXAMPLE
-    .\Run-OOSU10.ps1 -action revert -Verbose
+    .\OOSU10-Auto.ps1 -action revert -Verbose
 #>
 
 param (
