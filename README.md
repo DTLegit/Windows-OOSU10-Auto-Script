@@ -18,4 +18,7 @@ Steps to use:
 
 Credit for the logic and function to the script used in older versions of Chris Titus Tech's WinUtil that had the "Run O&O ShutUp 10" Tweak available.
 
+This script is made publically available for use and consumption under the terms and conditions set forth by the Mozilla Public License, with an additional requirement of proper credit being given if used in other projects or software. 
+
+NOTE: **This script is considered to be in a finished state. However, additional testing still may be required to ensure that this can fully be used under production environments. Any and all testing and feedback/PRs to help fix any potential issues and improve code quality/efficiency with this script is welcome and highly encouraged to hopefully ensure that this script gets up to production quality. Thank you in advance for your time to anyone who opts to do so.** 
 
